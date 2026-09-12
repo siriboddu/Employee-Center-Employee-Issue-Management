@@ -153,7 +153,7 @@ Automatic issue number generation
 
 A test submission successfully created the record:
 
-EMP0001010
+EMP0001012
 
 **⚠️ Known Limitation**
 
@@ -172,6 +172,26 @@ Implemented a Record Producer for issue submission.
 Added custom widgets for portal navigation.
 Applied UI Policies for business rules.
 Successfully tested end-to-end issue submission and record creation.
+
+**## 📸 Screenshots**
+
+### Employee Center Portal
+![Employee Center Portal](Screenshots/01-Employee-Center-Portal.png)
+
+### Raise Employee Issue
+![Raise Employee Issue](Screenshots/02-Raise-Employee-Issue.png)
+
+### Requests
+![Requests](Screenshots/03-Requests.png)
+
+### System Status
+![System Status](Screenshots/04-System-Status.png)
+
+### Successful Issue Submission
+![Successful Issue Submission](Screenshots/05-Successful-Issue-Submission.png)
+
+### Project Testing
+![Project Testing](Screenshots/06-Project-Testing.png)
 
 **🚀 Future Enhancements**
 
